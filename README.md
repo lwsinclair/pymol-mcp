@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/vrtejus-pymol-mcp-badge.png)](https://mseep.ai/app/vrtejus-pymol-mcp)
+
 # PyMOL-MCP: Integrating PyMOL with Claude AI
 
 PyMOL-MCP connects PyMOL to Claude AI through the Model Context Protocol (MCP), enabling Claude to directly interact with and control PyMOL. This powerful integration allows for conversational structural biology, molecular visualization, and analysis through natural language.
